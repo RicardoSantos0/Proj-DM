@@ -3,5 +3,7 @@
 This is an ongoing process effort by:
 
 Daniel Correia
+
 Joana Rafael
+
 Ricardo Santos
